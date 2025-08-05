@@ -225,14 +225,4 @@ This project was developed as part of the 42 School curriculum (Module 07 - Ex02
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is part of the 42 School curriculum and follows the school's coding standards and license requirements.
-
-## 👨‍💻 Author
-
-**Younes** - [@Younes](https://github.com/your-username)
-
----
-
 ⭐ If you find this project helpful, please give it a star!
