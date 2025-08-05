@@ -1,6 +1,6 @@
 # Java ORM Framework
 
-A lightweight Object-Relational Mapping (ORM) framework built in Java that provides a simple way to map Java objects to database tables using annotations.
+A lightweight Object-Relational Mapping (ORM) framework built in Java that provides a simple way to map Java objects to database tables using annotations. This is a lightweight ORM engine using annotations and reflection to auto-generate SQL tables and simplify persistence.
 
 ## 🚀 Features
 
@@ -235,4 +235,4 @@ This project is part of the 42 School curriculum and follows the school's coding
 
 ---
 
-⭐ If you find this project helpful, please give it a star! 
+⭐ If you find this project helpful, please give it a star!
